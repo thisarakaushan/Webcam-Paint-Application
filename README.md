@@ -17,7 +17,6 @@ To run the Webcam Paint Application on your local machine, follow these steps:
 
 ```bash
 git clone https://github.com/thisarakaushan/Webcam-Paint-Application
-cd webcam-paint
 ```
 
 ## Usage
